@@ -22,5 +22,5 @@ http://127.0.0.1:8000/products
 admin screen:
 http://127.0.0.1:8000/admin
 
-Username/password: admin/1233
+Username/password: admin/1234
 
